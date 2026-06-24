@@ -51,7 +51,7 @@ export default function App() {
   const [copyFeedback, setCopyFeedback] = useState(false);
 
   const CORRECT_FLEX_ID = 'FLEX10999';
-  const ACCOUNT_NUMBER = '1944539322';
+  const ACCOUNT_NUMBER = '0435119272';
   const TELEGRAM_LINK = 'https://t.me/chix9jaservice';
 
   const nextStep = () => setStep((s) => s + 1);
@@ -538,11 +538,11 @@ export default function App() {
                     <div className="grid grid-cols-2 gap-8 pt-6 border-t border-white/10">
                       <div>
                         <span className="text-[10px] font-black text-slate-500 uppercase tracking-widest mb-1 block">Receiving Bank</span>
-                        <p className="text-xl font-bold text-white">Access Bank</p>
+                        <p className="text-xl font-bold text-white">Paga</p>
                       </div>
                       <div>
                         <span className="text-[10px] font-black text-slate-500 uppercase tracking-widest mb-1 block">Account Name</span>
-                        <p className="text-xl font-bold text-white leading-tight">Marvelous Michael O</p>
+                        <p className="text-xl font-bold text-white leading-tight">Marvelous Michael o</p>
                       </div>
                     </div>
                   </div>
